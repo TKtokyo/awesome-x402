@@ -482,6 +482,7 @@ Projects building with or extending x402.
 - [MoonMaker API](https://api.moonmaker.cc) - AI-native crypto intelligence API. Real-time signals, market regime, institutional flows, DeFi yields & DEX alpha — pay per call via x402 USDC on Base. Built for AI agents.
 - [Bloomfilter](https://bloomfilter.xyz) - x402-powered domain registration API for AI agents. Register ICANN domains and manage DNS, paying with USDC on Base
 - [OpSpawn Bazaar](https://a2a.opspawn.com) - Suite of seven AI-powered x402 microservices including screenshot capture, sentiment analysis, summarization, translation, fact-checking, and entity extraction on Base network.
+- - [Token Intelligence API](https://github.com/TKtokyo/token-intel-api) - EVM token security analysis with deterministic risk scoring and natural language summaries via x402 micropayments. Aggregates GoPlus contract, holder, and liquidity data in one request. $0.005 USDC on Base. Cloudflare Workers + Hono. [Live](https://token-intel-api.tatsu77.workers.dev)
 
 ### DeFi & Finance
 
